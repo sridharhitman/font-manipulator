@@ -1,4 +1,5 @@
 canvas{
-    border-radius: 10px;
-    box-shadow: 5px 5px 5px #7e22ce;
+    border: 5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px grey;
 }
